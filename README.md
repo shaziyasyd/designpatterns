@@ -1,4 +1,4 @@
-# Design Patterns Samples - Command Pattern
+# Design Patterns Samples - Command Pattern (This code is not tested yet)
 This is my attempt to improve my understanding of design patterns.
 
 ## What's command pattern?
